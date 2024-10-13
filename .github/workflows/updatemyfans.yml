@@ -39,8 +39,11 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add fantasy_football_data.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update fantasy football data")
-        git pull --rebase origin main
+        git diff --staged --quiet || (git commit -m "Update fantasy football data")
+        git fetch origin main
+        git checkout main
+        git reset --hard origin/main
+        git cherry-pick ORIG_HEAD
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
