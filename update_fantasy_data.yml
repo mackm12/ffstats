@@ -25,7 +25,7 @@ jobs:
         pip install espn-api
 
     - name: Run update script
-      run: python fantasy_football_data_export.py
+      run: python ffstats/blob/main/fantasy_football_data_export.py
 
     - name: Commit and push if changed
       run: |
