@@ -3,7 +3,11 @@ from espn_api.football import League
 from datetime import datetime
 
 def export_fantasy_data():
-    league = League(league_id=1339878609, year=2024, espn_s2='AEBGoJjAS4SM7DHbWg6stHnFMDDYgdLKLg%2FebH3pNTwEbryMa%2FHlpJeGKcWxv9mf0nofghK7mLwIBHRDFN7f%2FDVizYWiW0aOtGX3noMSqDuTZVNXrdgmuP3cC4c%2FebOT66RxuM%2BbOsgJ4cbOSYXpMAwuYrOEbj%2FvWorQXyu1OB4tryxcfHdmZtF0v07%2B%2BNM84qJaRYDHjPgwcAAwUuRem3RaEpmEM3dk2N6cMsqaocPkG5pdZ5XnSmtWBVlznLCrb9IrgSITEiIJf9NzcWxxUg0E64PDCdkhiIHhf%2B6A%2BtWZeg%3D%3D', swid='{CAF63A66-37AB-46D6-B404-414B27C0A132}')
+    league = League(
+        league_id=int(os.environ['LEAGUE_ID']),
+        year=2024,
+        espn_s2=os.environ['ESPN_S2'],
+        swid=os.environ['SWID'] 
     box_scores = league.box_scores(12)
 
     data = []
