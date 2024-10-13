@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for all branches and tags
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -32,9 +34,13 @@ jobs:
         SWID: ${{ secrets.SWID }}
       run: python fantasy-football-data-export.py
 
-    - name: Commit and push if changed
+    - name: Commit and push changes
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add fantasy_football_data.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update fantasy football data" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update fantasy football data")
+        git pull --rebase origin main
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
