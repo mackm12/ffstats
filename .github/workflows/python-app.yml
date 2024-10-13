@@ -27,7 +27,7 @@ jobs:
         LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
         ESPN_S2: ${{ secrets.ESPN_S2 }}
         SWID: ${{ secrets.SWID }}
-      run: python fantasy_football_data_export.py
+      run: python fantasy-football-data-export.py
 
     - name: Commit and push if changed
       run: |
