@@ -4,7 +4,7 @@ from collections import defaultdict
 
 def fetch_latest_data():
     # Replace with the actual URL of your data source
-    url = "https://your-data-source-url.com/fantasy_football_data.json"
+    url = "https://raw.githubusercontent.com/mackm12/ffstats/refs/heads/main/fantasy_football_data.json"
     response = requests.get(url)
     return response.json()
 
