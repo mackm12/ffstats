@@ -75,7 +75,7 @@
         {
           "name": "Chase Brown",
           "position": "RB",
-          "points": 0
+          "points": 3.4
         },
         {
           "name": "Alexander Mattison",
@@ -151,7 +151,7 @@
         {
           "name": "Evan McPherson",
           "position": "K",
-          "points": 0
+          "points": 1.0
         },
         {
           "name": "Dallas Goedert",
@@ -171,7 +171,7 @@
         {
           "name": "Zack Moss",
           "position": "RB",
-          "points": 0
+          "points": 0.5
         },
         {
           "name": "Cam Akers",
@@ -179,7 +179,7 @@
           "points": -0.1
         }
       ],
-      "total_score": 96.66,
+      "total_score": 97.16,
       "team_name": "Stacy's Mom"
     }
   },
@@ -280,7 +280,7 @@
         {
           "name": "Ja'Marr Chase",
           "position": "WR",
-          "points": 0
+          "points": 12.2
         },
         {
           "name": "Dak Prescott",
@@ -330,12 +330,12 @@
         {
           "name": "Devin Singletary",
           "position": "RB",
-          "points": 0
+          "points": 0.0
         },
         {
           "name": "Joe Burrow",
           "position": "QB",
-          "points": 0
+          "points": 17.98
         },
         {
           "name": "Tucker Kraft",
@@ -345,7 +345,7 @@
         {
           "name": "Tyrone Tracy Jr.",
           "position": "RB",
-          "points": 0
+          "points": 17.5
         },
         {
           "name": "Colts D/ST",
@@ -353,7 +353,7 @@
           "points": 5.0
         }
       ],
-      "total_score": 82.2,
+      "total_score": 129.88,
       "team_name": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b"
     }
   },
@@ -653,7 +653,7 @@
         {
           "name": "Malik Nabers",
           "position": "WR",
-          "points": 0
+          "points": 0.0
         },
         {
           "name": "49ers D/ST",
@@ -703,10 +703,10 @@
         {
           "name": "Daniel Jones",
           "position": "QB",
-          "points": 0
+          "points": 6.72
         }
       ],
-      "total_score": 68.7,
+      "total_score": 75.42,
       "team_name": "mother.of.dragons"
     }
   },
@@ -882,10 +882,10 @@
         {
           "name": "Tee Higgins",
           "position": "WR",
-          "points": 0
+          "points": 10.4
         }
       ],
-      "total_score": 85.4,
+      "total_score": 95.8,
       "team_name": "Silence of the Lamb"
     }
   }
