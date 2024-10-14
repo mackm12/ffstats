@@ -1,0 +1,892 @@
+{
+  "1": {
+    "home": {
+      "players": [
+        {
+          "name": "Brock Purdy",
+          "position": "QB",
+          "points": 24.1
+        },
+        {
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "points": 7.4
+        },
+        {
+          "name": "Mike Evans",
+          "position": "WR",
+          "points": 5.4
+        },
+        {
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
+          "points": -0.1
+        },
+        {
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "points": 5.7
+        },
+        {
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "points": 10.0
+        },
+        {
+          "name": "Rashee Rice",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "David Montgomery",
+          "position": "RB",
+          "points": 21.0
+        },
+        {
+          "name": "Cameron Dicker",
+          "position": "K",
+          "points": 12.0
+        },
+        {
+          "name": "Jordan Addison",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "points": 0
+        },
+        {
+          "name": "Jameson Williams",
+          "position": "WR",
+          "points": 17.7
+        },
+        {
+          "name": "Jason Sanders",
+          "position": "K",
+          "points": 0
+        },
+        {
+          "name": "Brian Thomas Jr.",
+          "position": "WR",
+          "points": 5.7
+        },
+        {
+          "name": "Chase Brown",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Alexander Mattison",
+          "position": "RB",
+          "points": 17.5
+        },
+        {
+          "name": "Eagles D/ST",
+          "position": "D/ST",
+          "points": 8.0
+        }
+      ],
+      "total_score": 93.5,
+      "team_name": "Riley's Rowdy Team"
+    },
+    "away": {
+      "players": [
+        {
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "points": 21.86
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "points": 13.7
+        },
+        {
+          "name": "Puka Nacua",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "points": 12.1
+        },
+        {
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "points": 0
+        },
+        {
+          "name": "Joe Mixon",
+          "position": "RB",
+          "points": 27.2
+        },
+        {
+          "name": "Jets D/ST",
+          "position": "D/ST",
+          "points": 0
+        },
+        {
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Tank Dell",
+          "position": "WR",
+          "points": 18.7
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "points": 20.96
+        },
+        {
+          "name": "Evan McPherson",
+          "position": "K",
+          "points": 0
+        },
+        {
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "points": 0.0
+        },
+        {
+          "name": "Cairo Santos",
+          "position": "K",
+          "points": 4.0
+        },
+        {
+          "name": "Lions D/ST",
+          "position": "D/ST",
+          "points": 19.0
+        },
+        {
+          "name": "Zack Moss",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Cam Akers",
+          "position": "RB",
+          "points": -0.1
+        }
+      ],
+      "total_score": 96.66,
+      "team_name": "Stacy's Mom"
+    }
+  },
+  "2": {
+    "home": {
+      "players": [
+        {
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "points": 18.38
+        },
+        {
+          "name": "Jonathan Taylor",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "points": 12.2
+        },
+        {
+          "name": "Drake London",
+          "position": "WR",
+          "points": 19.4
+        },
+        {
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "points": 20.7
+        },
+        {
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "points": 21.9
+        },
+        {
+          "name": "Saints D/ST",
+          "position": "D/ST",
+          "points": 3.0
+        },
+        {
+          "name": "Rome Odunze",
+          "position": "WR",
+          "points": 6.0
+        },
+        {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "points": 25.9
+        },
+        {
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "points": 4.7
+        },
+        {
+          "name": "Will Reichard",
+          "position": "K",
+          "points": 0
+        },
+        {
+          "name": "Texans D/ST",
+          "position": "D/ST",
+          "points": 14.0
+        },
+        {
+          "name": "Jordan Mason",
+          "position": "RB",
+          "points": 9.2
+        },
+        {
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "points": 5.7
+        },
+        {
+          "name": "Darnell Mooney",
+          "position": "WR",
+          "points": 6.8
+        },
+        {
+          "name": "Jake Elliott",
+          "position": "K",
+          "points": 9.0
+        }
+      ],
+      "total_score": 131.58,
+      "team_name": "Spam Town Mn"
+    },
+    "away": {
+      "players": [
+        {
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Dak Prescott",
+          "position": "QB",
+          "points": 3.22
+        },
+        {
+          "name": "Rachaad White",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Evan Engram",
+          "position": "TE",
+          "points": 18.2
+        },
+        {
+          "name": "Aaron Jones",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "points": 15.4
+        },
+        {
+          "name": "Chris Godwin",
+          "position": "WR",
+          "points": 35.5
+        },
+        {
+          "name": "Diontae Johnson",
+          "position": "WR",
+          "points": 19.8
+        },
+        {
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "points": 10.8
+        },
+        {
+          "name": "Younghoe Koo",
+          "position": "K",
+          "points": 12.0
+        },
+        {
+          "name": "Devin Singletary",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Joe Burrow",
+          "position": "QB",
+          "points": 0
+        },
+        {
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "points": 3.5
+        },
+        {
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Colts D/ST",
+          "position": "D/ST",
+          "points": 5.0
+        }
+      ],
+      "total_score": 82.2,
+      "team_name": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b"
+    }
+  },
+  "3": {
+    "home": {
+      "players": [
+        {
+          "name": "Breece Hall",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Derrick Henry",
+          "position": "RB",
+          "points": 25.2
+        },
+        {
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "points": 0.0
+        },
+        {
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "points": 12.0
+        },
+        {
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "points": 19.7
+        },
+        {
+          "name": "Brock Bowers",
+          "position": "TE",
+          "points": 16.1
+        },
+        {
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "points": 21.1
+        },
+        {
+          "name": "Najee Harris",
+          "position": "RB",
+          "points": 20.2
+        },
+        {
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Nick Chubb",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Allen Lazard",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Blake Grupe",
+          "position": "K",
+          "points": 10.0
+        },
+        {
+          "name": "Sam Darnold",
+          "position": "QB",
+          "points": 0
+        },
+        {
+          "name": "Bears D/ST",
+          "position": "D/ST",
+          "points": 11.0
+        },
+        {
+          "name": "Caleb Williams",
+          "position": "QB",
+          "points": 28.64
+        }
+      ],
+      "total_score": 122.64,
+      "team_name": "Make Subaru Striaght Again. "
+    },
+    "away": {
+      "players": [
+        {
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "points": 18.92
+        },
+        {
+          "name": "Chris Olave",
+          "position": "WR",
+          "points": -0.5
+        },
+        {
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "points": 17.4
+        },
+        {
+          "name": "Trey McBride",
+          "position": "TE",
+          "points": 17.6
+        },
+        {
+          "name": "Javonte Williams",
+          "position": "RB",
+          "points": 4.6
+        },
+        {
+          "name": "Justin Tucker",
+          "position": "K",
+          "points": 13.0
+        },
+        {
+          "name": "Jared Goff",
+          "position": "QB",
+          "points": 25.1
+        },
+        {
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "points": 15.3
+        },
+        {
+          "name": "Tyler Conklin",
+          "position": "TE",
+          "points": 0
+        },
+        {
+          "name": "Jake Bates",
+          "position": "K",
+          "points": 19.0
+        },
+        {
+          "name": "Chuba Hubbard",
+          "position": "RB",
+          "points": 15.3
+        },
+        {
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Bills D/ST",
+          "position": "D/ST",
+          "points": 0
+        },
+        {
+          "name": "Steelers D/ST",
+          "position": "D/ST",
+          "points": 14.0
+        },
+        {
+          "name": "Justice Hill",
+          "position": "RB",
+          "points": 1.4
+        }
+      ],
+      "total_score": 115.62,
+      "team_name": "Ashley's Awesome Team"
+    }
+  },
+  "4": {
+    "home": {
+      "players": [
+        {
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "points": 12.5
+        },
+        {
+          "name": "Davante Adams",
+          "position": "WR",
+          "points": 0.0
+        },
+        {
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "points": 20.9
+        },
+        {
+          "name": "DJ Moore",
+          "position": "WR",
+          "points": 6.0
+        },
+        {
+          "name": "David Njoku",
+          "position": "TE",
+          "points": 8.1
+        },
+        {
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "points": 23.3
+        },
+        {
+          "name": "Tony Pollard",
+          "position": "RB",
+          "points": 17.8
+        },
+        {
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "points": 10.3
+        },
+        {
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "points": 8.3
+        },
+        {
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "points": 21.2
+        },
+        {
+          "name": "Jerome Ford",
+          "position": "RB",
+          "points": 1.4
+        },
+        {
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "points": 4.5
+        },
+        {
+          "name": "Jordan Love",
+          "position": "QB",
+          "points": 25.62
+        },
+        {
+          "name": "Broncos D/ST",
+          "position": "D/ST",
+          "points": 2.0
+        },
+        {
+          "name": "Chris Boswell",
+          "position": "K",
+          "points": 17.0
+        },
+        {
+          "name": "Zach Ertz",
+          "position": "TE",
+          "points": 10.8
+        }
+      ],
+      "total_score": 131.02,
+      "team_name": "3rd And Long"
+    },
+    "away": {
+      "players": [
+        {
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "points": 0
+        },
+        {
+          "name": "Travis Kelce",
+          "position": "TE",
+          "points": 0
+        },
+        {
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "Kyren Williams",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "James Cook",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Malik Nabers",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "49ers D/ST",
+          "position": "D/ST",
+          "points": 6.0
+        },
+        {
+          "name": "Brandon Aubrey",
+          "position": "K",
+          "points": 12.0
+        },
+        {
+          "name": "George Pickens",
+          "position": "WR",
+          "points": 8.3
+        },
+        {
+          "name": "James Conner",
+          "position": "RB",
+          "points": 6.6
+        },
+        {
+          "name": "Ka'imi Fairbairn",
+          "position": "K",
+          "points": 11.0
+        },
+        {
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "points": 2.7
+        },
+        {
+          "name": "Jayden Reed",
+          "position": "WR",
+          "points": 14.8
+        },
+        {
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "points": 9.0
+        },
+        {
+          "name": "Cole Kmet",
+          "position": "TE",
+          "points": 24.0
+        },
+        {
+          "name": "Daniel Jones",
+          "position": "QB",
+          "points": 0
+        }
+      ],
+      "total_score": 68.7,
+      "team_name": "mother.of.dragons"
+    }
+  },
+  "5": {
+    "home": {
+      "players": [
+        {
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "points": 25.5
+        },
+        {
+          "name": "A.J. Brown",
+          "position": "WR",
+          "points": 23.6
+        },
+        {
+          "name": "George Kittle",
+          "position": "TE",
+          "points": 22.8
+        },
+        {
+          "name": "Vikings D/ST",
+          "position": "D/ST",
+          "points": 0
+        },
+        {
+          "name": "DK Metcalf",
+          "position": "WR",
+          "points": 7.8
+        },
+        {
+          "name": "Ty Chandler",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Jaguars D/ST",
+          "position": "D/ST",
+          "points": 3.0
+        },
+        {
+          "name": "Christian Kirk",
+          "position": "WR",
+          "points": 6.9
+        },
+        {
+          "name": "Keon Coleman",
+          "position": "WR",
+          "points": 0
+        },
+        {
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "points": 18.2
+        },
+        {
+          "name": "Justin Fields",
+          "position": "QB",
+          "points": 23.7
+        },
+        {
+          "name": "Carson Steele",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "points": 0
+        },
+        {
+          "name": "Austin Seibert",
+          "position": "K",
+          "points": 14.0
+        },
+        {
+          "name": "Kareem Hunt",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "points": 12.5
+        }
+      ],
+      "total_score": 134.3,
+      "team_name": "BringYaAss"
+    },
+    "away": {
+      "players": [
+        {
+          "name": "Josh Allen",
+          "position": "QB",
+          "points": 0
+        },
+        {
+          "name": "CeeDee Lamb",
+          "position": "WR",
+          "points": 16.1
+        },
+        {
+          "name": "Isiah Pacheco",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Mark Andrews",
+          "position": "TE",
+          "points": 15.6
+        },
+        {
+          "name": "Nico Collins",
+          "position": "WR",
+          "points": 0.0
+        },
+        {
+          "name": "De'Von Achane",
+          "position": "RB",
+          "points": 0
+        },
+        {
+          "name": "Zay Flowers",
+          "position": "WR",
+          "points": 22.4
+        },
+        {
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "points": 4.1
+        },
+        {
+          "name": "Greg Zuerlein",
+          "position": "K",
+          "points": 0
+        },
+        {
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "points": 0.0
+        },
+        {
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "points": 3.6
+        },
+        {
+          "name": "Christian Watson",
+          "position": "WR",
+          "points": 15.8
+        },
+        {
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "points": 0.0
+        },
+        {
+          "name": "Buccaneers D/ST",
+          "position": "D/ST",
+          "points": 17.0
+        },
+        {
+          "name": "Bucky Irving",
+          "position": "RB",
+          "points": 18.5
+        },
+        {
+          "name": "Antonio Gibson",
+          "position": "RB",
+          "points": 7.3
+        },
+        {
+          "name": "Tee Higgins",
+          "position": "WR",
+          "points": 0
+        }
+      ],
+      "total_score": 85.4,
+      "team_name": "Silence of the Lamb"
+    }
+  }
+}
