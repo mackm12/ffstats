@@ -26,8 +26,19 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests  # Add any other dependencies your script might need
 
+    - name: Debug - Print current directory and list files
+      run: |
+        pwd
+        ls -R
+
     - name: Run data processing script
-      run: python process_fantasy_data.py
+      run: |
+        if [ -f "process_fantasy_data.py" ]; then
+          python process_fantasy_data.py
+        else
+          echo "Error: process_fantasy_data.py not found"
+          exit 1
+        fi
 
     - name: Commit and push if changed
       run: |
