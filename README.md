@@ -1,2 +1,0 @@
-# ffstats
-MackBarFF
