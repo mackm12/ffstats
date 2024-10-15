@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+#fantasy-football-data {
+    position: relative;
+    width: 100%;
+    height: 2000px; /* Adjust based on your needs */
+    background-image: url('Untitled.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#below-image-area {
+    margin-top: 820px; /* Slightly more than the height of the image area */
+}
+
+.game-container {
+    position: absolute;
+    width: 45%; /* Adjust as needed */
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+/* Position the specific game container over the image */
+#game-1 {
+    top: 250px; /* Adjust these values to position the table where you want it on the image */
+    left: 10px;
+    z-index: 10; /* Ensures the table is on top of the image */
+}
+
+/* Other game container positions */
+#game-2 {
+    top: 20px;
+    right: 20px;
+}
+
+#game-3 {
+    top: 500px;
+    left: 20px;
+}
+
+#game-4 {
+    top: 500px;
+    right: 20px;
+}
+
+#game-5 {
+    top: 980px;
+    left: 20px;
+}
+
+/* Rest of your CSS remains the same */
+/* Add more game container positions as needed */
+
+.game-container h2 {
+    background-color: #4CAF50;
+    color: white;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.game-container h3 {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+.game-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.game-table th, .game-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.game-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.game-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.game-table .total-score {
+    font-weight: bold;
+    background-color: #e6e6e6;
+}
+
+.game-table .total-score td:nth-child(3),
+.game-table .total-score td:nth-child(4) {
+    font-size: 1.2em;
+    color: #4CAF50;
+}
+
+/* Styling for home team */
+.game-table th:nth-child(-n+3),
+.game-table td:nth-child(-n+3) {
+    background-color: rgba(173, 216, 230, 0.2); /* Light blue */
+}
+
+/* Styling for away team */
+.game-table th:nth-child(n+4),
+.game-table td:nth-child(n+4) {
+    background-color: rgba(255, 182, 193, 0.2); /* Light pink */
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+    .game-container {
+        width: 90%;
+        position: static;
+        margin-bottom: 20px;
+    }
+
+    #fantasy-football-data {
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .game-table {
+        font-size: 14px;
+    }
+
+    .game-table th, .game-table td {
+        padding: 5px;
+    }
+
+    /* Stack the table on small screens */
+    .game-table, .game-table thead, .game-table tbody, .game-table th, .game-table td, .game-table tr {
+        display: block;
+    }
+
+    .game-table thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    .game-table tr {
+        border: 1px solid #ccc;
+        margin-bottom: 10px;
+    }
+
+    .game-table td {
+        border: none;
+        position: relative;
+        padding-left: 50%;
+    }
+
+    .game-table td:before {
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+    }
+
+    /* Label the data for mobile view */
+    .game-table td:nth-of-type(1):before { content: "Home Position"; }
+    .game-table td:nth-of-type(2):before { content: "Home Player"; }
+    .game-table td:nth-of-type(3):before { content: "Home Points"; }
+    .game-table td:nth-of-type(4):before { content: "Away Points"; }
+    .game-table td:nth-of-type(5):before { content: "Away Player"; }
+    .game-table td:nth-of-type(6):before { content: "Away Position"; }
+}
