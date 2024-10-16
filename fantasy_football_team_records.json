@@ -1,0 +1,858 @@
+{
+  "last_updated": "2024-10-16T13:57:38.218139",
+  "league_name": "THE Mack Bar Fantasy Football ",
+  "league_id": 1339878609,
+  "season": 2024,
+  "team_records": [
+    {
+      "team_name": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
+      "owners": [
+        {
+          "displayName": "ESPNFAN8204244187",
+          "firstName": "Emily",
+          "id": "{16B3188C-EB8E-4617-B801-1A2223CE52EA}",
+          "lastName": "Mack",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "73c366f0-3a39-3940-9a21-aae296d2d664",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "a0becb68-4c71-3230-8338-6738731792f1",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "36249108-96eb-3724-b70a-b19ba6801070",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "38eafceb-ef47-3efd-8bce-c72e41a11249",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "f4d5db43-cdb0-33ee-8d31-69b63938edcc",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "80c91f7a-f502-3deb-8cb3-f669da11f86a",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "107850c5-5f73-3b5a-bdaa-d9c2bc893a36",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "19661a4b-afc7-39fe-9cee-636557e96e22",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "7fa51749-857a-3c76-9d08-2dd99168f663",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "460f44b2-4484-35ea-bae8-37249c3f88d2",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "bfc23d38-fdf4-3526-9607-5f77bd2290d8",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "7f99f4e6-5f80-3e39-834c-7837d28d1b75",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "398f9eec-df47-39bc-9489-391dce7dcc4f",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 712.68,
+      "points_against": 687.14,
+      "standing": 4,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Silence of the Lamb",
+      "owners": [
+        {
+          "displayName": "espn31693361",
+          "firstName": "Mandi",
+          "id": "{E882F41C-058C-40D3-A65B-FDEA8E649106}",
+          "lastName": "Tweet",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "fa06b3f5-bbbd-34fc-bb6c-efda84f2e1c3",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "e9ec2138-7c4a-3c2b-aa89-4143fecf3832",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "40251145-b36f-37ec-a1ee-a8638eafe974",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "a16850bf-230d-3f30-8b2c-cee3366aa74e",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "c1275561-561f-3eca-87a7-8411aaa2ab01",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "53e5e3d5-0b28-3f3f-9e90-36579d7db010",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "a22695e8-4641-3941-bb18-2bd9500c87d3",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "adc53b16-7e3a-3883-a941-60f775aa176c",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "e2bda4c6-90fe-3b79-a05b-9d970a0f8659",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "3d20764d-a3e9-35fc-b5f3-ef189a5e9d28",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "8157cad7-a84b-30dc-93d2-8c9aa0c2bfa8",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "0078d58f-1858-3f98-bb08-d732f203c312",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "4fe5d7fc-cd66-3771-8f2b-8018802e7a2a",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 743.8000000000001,
+      "points_against": 705.08,
+      "standing": 3,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "3rd And Long",
+      "owners": [
+        {
+          "displayName": "memyselfi1",
+          "firstName": "Bernard",
+          "id": "{D81FA7A4-1A94-4B69-BE1D-A6C340452973}",
+          "lastName": "Mack",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "a8ae1efa-5975-3c45-9363-b2764cc4231c",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "85b64e21-4742-3bd4-867d-1c6eaf3db865",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "fa8f7976-8c2b-3bc5-8ce7-8b4f7e12620e",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "7e608418-144a-3cd0-ba71-3265db79f050",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "933abaa4-0246-319f-98ab-3293ecbee981",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "29f57cb2-9426-3b55-af33-bc7dfd851da2",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "d437d4e5-5149-37da-8f4e-2356a667aaa8",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "26f5c20f-e41f-3b91-ac76-c7a85b118e3c",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "a55758b8-e2dc-341c-bc92-29d3bb6afd8a",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "b8ee36ec-a100-3b98-9387-a66c6d152fd5",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "2ab8d52e-ce44-3e1e-bdbc-f19083e1072e",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "65ee4971-fd23-30b3-8bea-065d9fc549cb",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "3e897c23-8f21-3c25-9e1b-2c40ca242260",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 621.4599999999999,
+      "points_against": 772.64,
+      "standing": 10,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Stacy's Mom",
+      "owners": [
+        {
+          "displayName": "ESPNfan5255956398",
+          "firstName": "Cara",
+          "id": "{68526908-BAF4-4FE7-9E50-717A51505BFF}",
+          "lastName": "Godfredson",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "5ff34f7e-4131-3925-b7a9-a11c4d176ae8",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "e16972ba-02f8-3e73-a679-ef52b4d32944",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "3020d86a-48cc-30cc-bc34-33a7fbe344dd",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "cd813874-4d08-338f-85de-3e141b0c5c88",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "f9948dae-ca6c-3616-bd63-5a6ef028dd6e",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "3bb43c5d-7772-3a0a-b24d-aaad537ed5fe",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "3da98e60-3f61-3f7a-814e-18d1f5806d92",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "7b1fb30d-63f1-3610-8296-6a312801560e",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "6add18ae-934e-3d0b-b816-d570b87911dc",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "8111b96e-84b9-3979-b955-bd39e1dad540",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "585210ab-cff0-3375-acf5-9aa69746c2f9",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "5b7409ba-31ae-3300-8fbf-89d3cab5372f",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "c00e46c1-c061-34a1-b8c8-28715c438699",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 684.3599999999999,
+      "points_against": 627.42,
+      "standing": 7,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "BringYaAss",
+      "owners": [
+        {
+          "displayName": "A.Tweet",
+          "firstName": "Amy",
+          "id": "{0FF75BC4-C9F4-4D0E-B8D1-155EC9D76A49}",
+          "lastName": "Tweet",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "8d801a4b-10e7-3b8c-b08b-5462f0ace095",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "b89eaa34-af73-363f-93a3-1dc2e88b7462",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "c75eb544-96b3-3a15-a586-651406052d65",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "b43741f7-3ea0-3d24-abcf-62b5f59a21d9",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "6e559283-0c61-383a-8e77-baec300fc988",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "3b5a877d-7725-369d-a306-1f0b50abbb94",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "ac383ded-f8a1-3379-ae1f-58b18c21993e",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "166ef534-77cf-30d2-b1be-f94017ba4db8",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "e9f739c0-fad3-3798-a430-a532af15957f",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "3242f7c9-85ff-37e4-80f7-e1926ba2ae33",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "833b0619-2760-39d7-a775-ba3e8fa34281",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "f51bdc70-9f6e-36d3-afad-383cd47c81cd",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "e5eea47d-21d1-3fa1-9fdd-8f3db1e2a075",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 699.5999999999999,
+      "points_against": 736.44,
+      "standing": 6,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Spam Town Mn",
+      "owners": [
+        {
+          "displayName": "mntweet",
+          "firstName": "Jim",
+          "id": "{D1D93D59-48A3-40F3-9FA9-83A3B731657A}",
+          "lastName": "Tweet",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "b75c2b5e-be85-3da0-a98f-3aca240b73c8",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "857c5ffb-8ead-372c-a582-26c880e24457",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "94ade7eb-9942-3819-8826-fedbc5f57887",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "5af22128-f99c-34e5-a376-6fdc0db2f9b5",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "511e25a4-8f71-3ca1-8e8e-45a82856824d",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "63cd0664-1630-34a2-83eb-b0da9fa2c48e",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "de3f089e-37ac-3c69-b545-74a931f897a1",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "8ac0cebf-170a-3410-93aa-7a49156d9e60",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "086169c3-fdfe-3644-8687-b588c8ccc6d4",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "5ca06b05-d666-3279-85ab-aa80e78a0385",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "b8469beb-3e36-3028-ab05-47df05276d58",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "aacbc717-770c-3d9d-b326-b9f87afa967c",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "93d042f2-cf95-3a17-a90f-a8c8ff0d4dcf",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 669.34,
+      "points_against": 685.88,
+      "standing": 8,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Ashley's Awesome Team",
+      "owners": [
+        {
+          "displayName": "ESPNFAN0107189633",
+          "firstName": "Ashley",
+          "id": "{06E84FE4-BC5C-4926-A24C-111A56883941}",
+          "lastName": "Wiltgen",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "623c0925-bb30-36c5-9e4f-23712cad1255",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "cf33b155-8b37-3422-a433-851436a1d9ac",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "b42fab94-9e5f-351f-bc78-fd663bb30c18",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "654eceaf-353e-33b5-9896-6ec8688af20d",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "4980007a-0dba-3484-a047-5d9cdea4b8ce",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "e7376706-39c3-3a21-89da-329b4297014a",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "54b6c080-18c1-35b8-843d-92279d44e0f5",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "a4b62daf-0dbd-3a65-998e-ef6092469ec7",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "a83e8153-87e5-3541-b900-97242557dcfb",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "f06a03f7-74da-396e-9c8f-61f5176bb049",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "24f2894c-f648-3998-a8d9-f43609603a7a",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "8b2f237f-356f-3d29-9d2a-af08db22ef1c",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "06bf7368-4cef-38e9-bb6f-fc936952b483",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 749.9599999999999,
+      "points_against": 596.12,
+      "standing": 2,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Make Subaru Striaght Again. ",
+      "owners": [
+        {
+          "displayName": "mattjmack09",
+          "firstName": "Matt",
+          "id": "{CAF63A66-37AB-46D6-B404-414B27C0A132}",
+          "lastName": "Mack",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "a022ecb6-c04e-3c4d-b29f-5e82e7c07570",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "85462be4-744d-3428-b8b0-505dc2459f2a",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "ea2f2383-ff7e-37b9-98b2-f163dfe1a8d0",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "82879afe-1d34-34ff-82fe-81350840607d",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "600640c5-764e-37bf-a675-3e2fba437a89",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "30b9f65b-9953-30fb-90c7-a33b7c16cad6",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "c291c132-debe-3767-ac75-9c6bfa567216",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "e6872cac-88ea-371f-9fa3-7f2252ce3f6a",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "3d47ca65-7361-36ac-8f3e-1a24a776f0d9",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "bab85fbb-1c24-3181-a471-659de0d7a77d",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "1e451370-d96a-3f61-8afd-2e1b6f3ef3b3",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "e1ad26b0-96dd-3ac5-af44-f773b5e19d7b",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "9839f1b1-843d-3e64-b177-3eb4420c9884",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 683.1999999999999,
+      "points_against": 629.66,
+      "standing": 5,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "mother.of.dragons",
+      "owners": [
+        {
+          "displayName": "lisa#sandmeyer",
+          "firstName": "lisa",
+          "id": "{8DB5E5E5-B2C3-4C2A-B5E5-E5B2C3FC2A8C}",
+          "lastName": "sandmeyer",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "99f9be07-9fb5-363d-93ba-0c2df244384e",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "900dc83b-4656-3e86-a9fb-84d5dacd3525",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "68e653b2-74ec-319c-b701-add2e36bad66",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "82ab6b85-ce84-3468-8a35-cbfb95e340dd",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "1c96d8d5-ad24-3cb1-a7f9-89e730f7777b",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "0bf2307f-8928-343c-8e6c-8d116ff06a9f",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "ea0f2a6e-963f-3ce1-9609-bcde83aee95c",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "f8f52b20-2e7d-3b66-9879-d4477e8f6240",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "d08e31dc-aec0-3b4e-82e8-4ec222de5803",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "d1830e40-11ad-33b3-9084-65c57f9879cf",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "ee42098b-f7bd-3893-b85e-68c02b8b2271",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "b7d1d11f-39aa-3f97-b4c6-2693cdf5571d",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "2f31f3ca-117a-3b4f-b096-8e3a788665e9",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 754.7,
+      "points_against": 730.38,
+      "standing": 1,
+      "projected_rank": "N/A"
+    },
+    {
+      "team_name": "Riley's Rowdy Team",
+      "owners": [
+        {
+          "displayName": "TherealRG188",
+          "firstName": "Riley",
+          "id": "{CC72E2FA-61F6-4586-8C00-85CE314CA863}",
+          "lastName": "Godfredson",
+          "notificationSettings": [
+            {
+              "enabled": true,
+              "id": "9e11d23e-bafb-3904-95c8-fc69467dbc4b",
+              "type": "TEAM_PLAYER_INJURY"
+            },
+            {
+              "enabled": true,
+              "id": "18da5ef3-c295-3f2a-9bf4-4b8e98c66a5b",
+              "type": "TEAM_PLAYER_AVAILABILITY"
+            },
+            {
+              "enabled": true,
+              "id": "270a1fa1-ac12-34e8-8e11-e8a870cc96d3",
+              "type": "TEAM_PLAYER_NEWS"
+            },
+            {
+              "enabled": true,
+              "id": "0c25e303-9dd6-388d-9c10-e2f5535fd0bc",
+              "type": "TEAM_PLAYER_STARTBENCH"
+            },
+            {
+              "enabled": true,
+              "id": "a1918263-3f73-35f6-8400-1408e3517a40",
+              "type": "TEAM_TRADE_OFFER"
+            },
+            {
+              "enabled": true,
+              "id": "e18d4b3f-2bc1-3c6b-924d-e3e556b2de1f",
+              "type": "DRAFT"
+            },
+            {
+              "enabled": true,
+              "id": "bed3181c-7de7-39ef-b22d-17a64902776c",
+              "type": "TEAM_MATCHUP_SCORE"
+            },
+            {
+              "enabled": true,
+              "id": "ca4f45e2-ae59-3276-8ae9-629780358f15",
+              "type": "KEY_PLAY"
+            },
+            {
+              "enabled": true,
+              "id": "7cb634b4-4db0-3a5b-8399-576d7e447bfc",
+              "type": "REDZONE"
+            },
+            {
+              "enabled": true,
+              "id": "1a1fbd87-5085-3e14-a1d8-599a6d1ee47c",
+              "type": "ADD_DROP"
+            },
+            {
+              "enabled": true,
+              "id": "e91e95d8-8add-34cf-bb8d-afa6674c9cfa",
+              "type": "WEEKLY_RECAP"
+            },
+            {
+              "enabled": true,
+              "id": "9475e05d-b0b0-3a84-8cb5-2c94f4a0cdf5",
+              "type": "WAIVERS"
+            },
+            {
+              "enabled": true,
+              "id": "4736aea1-c0cf-367b-9851-def5559b3ecb",
+              "type": "CELEBRATION_SHARE"
+            }
+          ]
+        }
+      ],
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 636.44,
+      "points_against": 784.78,
+      "standing": 9,
+      "projected_rank": "N/A"
+    }
+  ]
+}
