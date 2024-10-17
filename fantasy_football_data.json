@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-10-16T02:18:32.702866",
+  "last_updated": "2024-10-17T02:16:32.579570",
   "data": [
     {
       "Game": 1,
@@ -141,7 +141,7 @@
       "Team": "Spam Town Mn",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Jake Elliott",
+      "Player_Name": "Harrison Butker",
       "Player_Position": "K",
       "Player_Points": 0
     },
@@ -834,24 +834,6 @@
       "Team": "3rd And Long",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "DeMario Douglas",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 3,
-      "Team": "3rd And Long",
-      "Is_Home": false,
-      "Team_Score": 0.0,
-      "Player_Name": "Jerome Ford",
-      "Player_Position": "RB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 3,
-      "Team": "3rd And Long",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Zach Charbonnet",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -890,6 +872,24 @@
       "Team_Score": 0.0,
       "Player_Name": "Zach Ertz",
       "Player_Position": "TE",
+      "Player_Points": 0
+    },
+    {
+      "Game": 3,
+      "Team": "3rd And Long",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Geno Smith",
+      "Player_Position": "QB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 3,
+      "Team": "3rd And Long",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Amari Cooper",
+      "Player_Position": "WR",
       "Player_Points": 0
     },
     {
@@ -1446,35 +1446,35 @@
       "Team": "Silence of the Lamb",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Buccaneers D/ST",
-      "Player_Position": "D/ST",
-      "Player_Points": 0
-    },
-    {
-      "Game": 5,
-      "Team": "Silence of the Lamb",
-      "Is_Home": false,
-      "Team_Score": 0.0,
-      "Player_Name": "Bucky Irving",
-      "Player_Position": "RB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 5,
-      "Team": "Silence of the Lamb",
-      "Is_Home": false,
-      "Team_Score": 0.0,
-      "Player_Name": "Antonio Gibson",
-      "Player_Position": "RB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 5,
-      "Team": "Silence of the Lamb",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Tee Higgins",
       "Player_Position": "WR",
+      "Player_Points": 0
+    },
+    {
+      "Game": 5,
+      "Team": "Silence of the Lamb",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Tank Bigsby",
+      "Player_Position": "RB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 5,
+      "Team": "Silence of the Lamb",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Tyler Allgeier",
+      "Player_Position": "RB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 5,
+      "Team": "Silence of the Lamb",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Bengals D/ST",
+      "Player_Position": "D/ST",
       "Player_Points": 0
     }
   ]
