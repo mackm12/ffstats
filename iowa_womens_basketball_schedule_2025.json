@@ -1,0 +1,234 @@
+[
+    {
+        "date": "2024-11-07",
+        "time": "00:30",
+        "opponent": "Northern Illinois Huskies",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-10",
+        "time": "22:30",
+        "opponent": "Virginia Tech Hokies",
+        "home_away": "Away",
+        "venue": "Spectrum Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-14",
+        "time": "00:00",
+        "opponent": "Toledo Rockets",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-17",
+        "time": "20:00",
+        "opponent": "Drake Bulldogs",
+        "home_away": "Away",
+        "venue": "Knapp Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-21",
+        "time": "00:00",
+        "opponent": "Kansas Jayhawks",
+        "home_away": "Home",
+        "venue": "Sanford Pentagon",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-24",
+        "time": "21:00",
+        "opponent": "Washington State Cougars",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-28",
+        "time": "23:30",
+        "opponent": "Rhode Island Rams",
+        "home_away": "Home",
+        "venue": "Hard Rock Hotel Riviera Maya",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-30",
+        "time": "02:00",
+        "opponent": "BYU Cougars",
+        "home_away": "Away",
+        "venue": "Hard Rock Hotel Riviera Maya",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-08",
+        "time": "00:00",
+        "opponent": "Tennessee Lady Volunteers",
+        "home_away": "Home",
+        "venue": "Barclays Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-12",
+        "time": "02:00",
+        "opponent": "Iowa State Cyclones",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-15",
+        "time": "17:00",
+        "opponent": "Michigan State Spartans",
+        "home_away": "Away",
+        "venue": "Breslin Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-21",
+        "time": "00:30",
+        "opponent": "Northern Iowa Panthers",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-29",
+        "time": "20:00",
+        "opponent": "Purdue Boilermakers",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-01",
+        "time": "17:00",
+        "opponent": "Penn State Lady Lions",
+        "home_away": "Away",
+        "venue": "Bryce Jordan Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-05",
+        "time": "23:00",
+        "opponent": "Maryland Terrapins",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-10",
+        "time": "00:00",
+        "opponent": "Illinois Fighting Illini",
+        "home_away": "Away",
+        "venue": "State Farm Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-12",
+        "time": "20:00",
+        "opponent": "Indiana Hoosiers",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-17",
+        "time": "00:00",
+        "opponent": "Nebraska Cornhuskers",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-19",
+        "time": "22:00",
+        "opponent": "Oregon Ducks",
+        "home_away": "Away",
+        "venue": "Matthew Knight Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-23",
+        "time": "02:00",
+        "opponent": "Washington Huskies",
+        "home_away": "Away",
+        "venue": "Alaska Airlines Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-29",
+        "time": "01:00",
+        "opponent": "Northwestern Wildcats",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-02",
+        "time": "18:30",
+        "opponent": "USC Trojans",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-07",
+        "time": "01:00",
+        "opponent": "Minnesota Golden Gophers",
+        "home_away": "Away",
+        "venue": "Williams Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-11",
+        "time": "01:00",
+        "opponent": "Nebraska Cornhuskers",
+        "home_away": "Away",
+        "venue": "Pinnacle Bank Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-14",
+        "time": "00:30",
+        "opponent": "Rutgers Scarlet Knights",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-17",
+        "time": "17:00",
+        "opponent": "Ohio State Buckeyes",
+        "home_away": "Away",
+        "venue": "Schottenstein Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-23",
+        "time": "19:00",
+        "opponent": "UCLA Bruins",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-27",
+        "time": "00:00",
+        "opponent": "Michigan Wolverines",
+        "home_away": "Away",
+        "venue": "Crisler Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-03-02",
+        "time": "21:00",
+        "opponent": "Wisconsin Badgers",
+        "home_away": "Home",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    }
+]
