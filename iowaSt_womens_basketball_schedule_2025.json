@@ -1,0 +1,250 @@
+[
+    {
+        "date": "2024-11-04",
+        "time": "17:00",
+        "opponent": "Chicago State Cougars",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-08",
+        "time": "00:30",
+        "opponent": "Indiana State Sycamores",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-10",
+        "time": "20:00",
+        "opponent": "Southern Jaguars",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-15",
+        "time": "00:30",
+        "opponent": "St. Thomas-Minnesota Tommies",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-21",
+        "time": "00:00",
+        "opponent": "Northern Iowa Panthers",
+        "home_away": "Away",
+        "venue": "McLeod Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-24",
+        "time": "20:00",
+        "opponent": "Drake Bulldogs",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-28",
+        "time": "18:30",
+        "opponent": "South Carolina Gamecocks",
+        "home_away": "Home",
+        "venue": "Suncoast Credit Union Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-11-30",
+        "time": "18:30",
+        "opponent": "Middle Tennessee Blue Raiders",
+        "home_away": "Home",
+        "venue": "Suncoast Credit Union Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-04",
+        "time": "00:30",
+        "opponent": "South Carolina Upstate Spartans",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-08",
+        "time": "18:00",
+        "opponent": "Central Michigan Chippewas",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-12",
+        "time": "02:00",
+        "opponent": "Iowa Hawkeyes",
+        "home_away": "Away",
+        "venue": "Carver-Hawkeye Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-15",
+        "time": "23:00",
+        "opponent": "Eastern Illinois Panthers",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-18",
+        "time": "01:30",
+        "opponent": "UConn Huskies",
+        "home_away": "Away",
+        "venue": "Mohegan Sun Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2024-12-21",
+        "time": "22:00",
+        "opponent": "Oklahoma State Cowgirls",
+        "home_away": "Away",
+        "venue": "Gallagher-Iba Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-01",
+        "time": "05:00",
+        "opponent": "Kansas Jayhawks",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-05",
+        "time": "22:00",
+        "opponent": "Utah Utes",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-09",
+        "time": "01:30",
+        "opponent": "Arizona State Sun Devils",
+        "home_away": "Away",
+        "venue": "Desert Financial Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-11",
+        "time": "21:00",
+        "opponent": "Arizona Wildcats",
+        "home_away": "Away",
+        "venue": "McKale Center",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-15",
+        "time": "00:30",
+        "opponent": "Texas Tech Lady Raiders",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-19",
+        "time": "18:00",
+        "opponent": "West Virginia Mountaineers",
+        "home_away": "Away",
+        "venue": "WVU Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-23",
+        "time": "00:30",
+        "opponent": "BYU Cougars",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-25",
+        "time": "22:00",
+        "opponent": "UCF Knights",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-01-31",
+        "time": "01:30",
+        "opponent": "Kansas State Wildcats",
+        "home_away": "Away",
+        "venue": "Bramlage Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-02",
+        "time": "21:00",
+        "opponent": "TCU Horned Frogs",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-05",
+        "time": "23:30",
+        "opponent": "Cincinnati Bearcats",
+        "home_away": "Away",
+        "venue": "Fifth Third Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-08",
+        "time": "23:00",
+        "opponent": "Colorado Buffaloes",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-15",
+        "time": "22:00",
+        "opponent": "Kansas Jayhawks",
+        "home_away": "Away",
+        "venue": "Allen Fieldhouse",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-20",
+        "time": "00:30",
+        "opponent": "Houston Cougars",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-22",
+        "time": "19:30",
+        "opponent": "Baylor Bears",
+        "home_away": "Away",
+        "venue": "Foster Pavilion",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-02-26",
+        "time": "00:00",
+        "opponent": "UCF Knights",
+        "home_away": "Away",
+        "venue": "Addition Financial Arena",
+        "tv_network": "N/A"
+    },
+    {
+        "date": "2025-03-02",
+        "time": "21:00",
+        "opponent": "Kansas State Wildcats",
+        "home_away": "Home",
+        "venue": "Hilton Coliseum",
+        "tv_network": "N/A"
+    }
+]
