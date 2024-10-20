@@ -1,4 +1,4 @@
-name: Update Fantasy Football Data
+name: FF Data Update
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
       with:
         fetch-depth: 0  # Fetch all history for all branches and tags
 
