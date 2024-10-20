@@ -1,35 +1,49 @@
-name: Process Fantasy Football Data
+name: Update Fantasy Football Data
 
 on:
-  push:
-    branches: [ main ]
   schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+    - cron: '0 1 * * *'  # Runs at 1 AM UTC daily
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+  contents: write
 
 jobs:
-  process-data:
+  update-data:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v5
+    - name: Check out repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for all branches and tags
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-      if: steps.cache.outputs.cache-hit != 'true'
+        pip install espn-api
 
-    - name: Run fantasy football data processing script
-      run: python FF-pros.py
+    - name: Run update script
+      env:
+        LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+        ESPN_S2: ${{ secrets.ESPN_S2 }}
+        SWID: ${{ secrets.SWID }}
+      run: FF-pros.py
 
-    - name: Commit and push if changed
+    - name: Commit and push changes
       run: |
-        git config --global user.email "github-actions@example.com"
-        git config --global user.name "GitHub Actions"
-        git add processed_fantasy_football_data.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update processed fantasy football data" && git push)
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add fantasy_football_data.json
+        git diff --staged --quiet || (git commit -m "Update fantasy football data")
+        git fetch origin main
+        git checkout main
+        git reset --hard origin/main
+        git cherry-pick ORIG_HEAD
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
