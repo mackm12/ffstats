@@ -1,56 +1,56 @@
 {
-  "last_updated": "2024-10-20T02:22:55.151499",
+  "last_updated": "2024-10-21T02:19:16.966599",
   "data": [
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "C.J. Stroud",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 5.34
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Jonathan Taylor",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Sam LaPorta",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 3.5
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Drake London",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 18.3
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Deebo Samuel Sr.",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "D'Andre Swift",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -59,7 +59,7 @@
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Saints D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 1.0
@@ -68,7 +68,7 @@
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Rome Odunze",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -77,7 +77,7 @@
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Baker Mayfield",
       "Player_Position": "QB",
       "Player_Points": 0
@@ -86,7 +86,7 @@
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Isaiah Likely",
       "Player_Position": "TE",
       "Player_Points": 0
@@ -95,331 +95,331 @@
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Will Reichard",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 15.0
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Texans D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 11.0
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
-      "Player_Name": "Jordan Mason",
-      "Player_Position": "RB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 1,
-      "Team": "Spam Town Mn",
-      "Is_Home": true,
-      "Team_Score": 0.0,
-      "Player_Name": "Jauan Jennings",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 1,
-      "Team": "Spam Town Mn",
-      "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Darnell Mooney",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 9.6
     },
     {
       "Game": 1,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 67.2,
       "Player_Name": "Harrison Butker",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 4.0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Spam Town Mn",
+      "Is_Home": true,
+      "Team_Score": 67.2,
+      "Player_Name": "Trey Sermon",
+      "Player_Position": "RB",
+      "Player_Points": 5.9
+    },
+    {
+      "Game": 1,
+      "Team": "Spam Town Mn",
+      "Is_Home": true,
+      "Team_Score": 67.2,
+      "Player_Name": "Jaylen Warren",
+      "Player_Position": "RB",
+      "Player_Points": 3.9
+    },
+    {
+      "Game": 1,
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Brock Purdy",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 17.18
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Saquon Barkley",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 26.7
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Mike Evans",
       "Player_Position": "WR",
       "Player_Points": 0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Travis Etienne Jr.",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Brandon Aiyuk",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 4.3
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Kyle Pitts",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 13.5
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Rashee Rice",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "David Montgomery",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 8.0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Cameron Dicker",
       "Player_Position": "K",
       "Player_Points": 0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Jordan Addison",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 9.6
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Matthew Stafford",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 3.96
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Jameson Williams",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.6
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Jason Sanders",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 3.0
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Brian Thomas Jr.",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 22.1
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Chase Brown",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 7.3
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Alexander Mattison",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 15.3
     },
     {
       "Game": 1,
-      "Team": "Riley's Rowdy Team",
+      "Team": "Purdy's Pitts",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 94.28,
       "Player_Name": "Eagles D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 15.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Jalen Hurts",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 22.76
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Amon-Ra St. Brown",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 25.2
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Puka Nacua",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Jahmyr Gibbs",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 32.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Dalton Kincaid",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 8.2
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Joe Mixon",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 26.4
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Jets D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 6.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Jaylen Waddle",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 2.1
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Tank Dell",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Rhamondre Stevenson",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 4.5
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Jayden Daniels",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 5.24
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Evan McPherson",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 2.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Dallas Goedert",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Cairo Santos",
       "Player_Position": "K",
       "Player_Points": 0
@@ -428,43 +428,43 @@
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Lions D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 5.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Zack Moss",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 7.0
     },
     {
       "Game": 2,
       "Team": "Stacy's Mom",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 112.04,
       "Player_Name": "Cam Akers",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Breece Hall",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 21.4
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Derrick Henry",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -473,7 +473,7 @@
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Marvin Harrison Jr.",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -482,43 +482,43 @@
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Josh Jacobs",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 20.2
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Stefon Diggs",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 7.3
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Brock Bowers",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 19.3
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Cooper Kupp",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Keenan Allen",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -527,43 +527,34 @@
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Najee Harris",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 3.2
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Xavier Worthy",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 5.4
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Nick Chubb",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 10.2
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
-      "Player_Name": "Allen Lazard",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "Make Subaru Striaght Again. ",
-      "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Blake Grupe",
       "Player_Position": "K",
       "Player_Points": 4.0
@@ -572,16 +563,16 @@
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Sam Darnold",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 16.26
     },
     {
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Bears D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 0
@@ -590,34 +581,43 @@
       "Game": 2,
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
-      "Team_Score": 4.0,
+      "Team_Score": 90.66,
       "Player_Name": "Caleb Williams",
       "Player_Position": "QB",
       "Player_Points": 0
     },
     {
+      "Game": 2,
+      "Team": "Make Subaru Striaght Again. ",
+      "Is_Home": false,
+      "Team_Score": 90.66,
+      "Player_Name": "Rams D/ST",
+      "Player_Position": "D/ST",
+      "Player_Points": 17.0
+    },
+    {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Tyreek Hill",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 2.3
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Ja'Marr Chase",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 17.6
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Dak Prescott",
       "Player_Position": "QB",
       "Player_Points": 0
@@ -626,7 +626,7 @@
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Rachaad White",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -635,34 +635,34 @@
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Evan Engram",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 8.5
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Aaron Jones",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 20.6
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "DeVonta Smith",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.8
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Chris Godwin",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -671,115 +671,115 @@
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Diontae Johnson",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 2.7
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Austin Ekeler",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 4.0
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Younghoe Koo",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 1.0
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Devin Singletary",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 3.1
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Joe Burrow",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 14.94
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Tucker Kraft",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 12.3
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Tyrone Tracy Jr.",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 6.2
     },
     {
       "Game": 3,
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 76.44,
       "Player_Name": "Colts D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 9.0
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Christian McCaffrey",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Michael Pittman Jr.",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 9.3
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Davante Adams",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 6.0
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Kenneth Walker III",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 23.3
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "DJ Moore",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -788,43 +788,43 @@
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "David Njoku",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 23.6
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Terry McLaurin",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 15.8
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Tony Pollard",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 8.5
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Jaxon Smith-Njigba",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 5.3
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Ladd McConkey",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -833,25 +833,25 @@
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Zach Charbonnet",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 2.4
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Jordan Love",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 16.8
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Broncos D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 21.0
@@ -860,52 +860,52 @@
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Chris Boswell",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 8.0
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Zach Ertz",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 14.0
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Geno Smith",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 17.78
     },
     {
       "Game": 3,
       "Team": "3rd And Long",
       "Is_Home": false,
-      "Team_Score": 21.0,
+      "Team_Score": 129.28,
       "Player_Name": "Amari Cooper",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 16.6
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Justin Jefferson",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 21.4
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Lamar Jackson",
       "Player_Position": "QB",
       "Player_Points": 0
@@ -914,7 +914,7 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Chris Olave",
       "Player_Position": "WR",
       "Player_Points": 0.0
@@ -923,7 +923,7 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Alvin Kamara",
       "Player_Position": "RB",
       "Player_Points": 8.4
@@ -932,7 +932,7 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Trey McBride",
       "Player_Position": "TE",
       "Player_Points": 0
@@ -941,7 +941,7 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Javonte Williams",
       "Player_Position": "RB",
       "Player_Points": 26.1
@@ -950,7 +950,7 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Justin Tucker",
       "Player_Position": "K",
       "Player_Points": 0
@@ -959,16 +959,16 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Jared Goff",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 18.8
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Courtland Sutton",
       "Player_Position": "WR",
       "Player_Points": 0.0
@@ -977,61 +977,61 @@
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Tyler Conklin",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 7.1
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Jake Bates",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 8.0
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Chuba Hubbard",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 11.2
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Demarcus Robinson",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 1.9
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Bills D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 12.0
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Steelers D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 7.0
     },
     {
       "Game": 4,
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
-      "Team_Score": 34.5,
+      "Team_Score": 52.7,
       "Player_Name": "Justice Hill",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -1040,88 +1040,88 @@
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Bijan Robinson",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 23.3
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "A.J. Brown",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 19.9
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "George Kittle",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 15.2
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Vikings D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 10.0
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "DK Metcalf",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 19.9
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Ty Chandler",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.4
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Jaguars D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 11.0
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Christian Kirk",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 3.4
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Keon Coleman",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 16.5
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "J.K. Dobbins",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -1130,124 +1130,124 @@
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Justin Fields",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Carson Steele",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 1.7
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Colby Parkinson",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 5.2
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Austin Seibert",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 17.0
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Kareem Hunt",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 22.3
     },
     {
       "Game": 4,
       "Team": "BringYaAss",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 115.88,
       "Player_Name": "Kirk Cousins",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 7.18
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Patrick Mahomes",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 12.06
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Travis Kelce",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 5.7
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Garrett Wilson",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 9.4
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Kyren Williams",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 19.6
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "James Cook",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 9.2
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Malik Nabers",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 8.1
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "49ers D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 5.0
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Brandon Aubrey",
       "Player_Position": "K",
       "Player_Points": 0
@@ -1256,16 +1256,16 @@
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "George Pickens",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 20.4
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "James Conner",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -1274,34 +1274,34 @@
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Ka'imi Fairbairn",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 12.0
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Tyjae Spears",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Jayden Reed",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 3.0
     },
     {
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Chase McLaughlin",
       "Player_Position": "K",
       "Player_Points": 0
@@ -1310,7 +1310,7 @@
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Cole Kmet",
       "Player_Position": "TE",
       "Player_Points": 0
@@ -1319,25 +1319,25 @@
       "Game": 5,
       "Team": "mother.of.dragons",
       "Is_Home": true,
-      "Team_Score": 0.0,
+      "Team_Score": 72.06,
       "Player_Name": "Daniel Jones",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 5.96
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Josh Allen",
       "Player_Position": "QB",
-      "Player_Points": 0
+      "Player_Points": 21.02
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "CeeDee Lamb",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -1346,16 +1346,16 @@
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Isiah Pacheco",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Mark Andrews",
       "Player_Position": "TE",
       "Player_Points": 0
@@ -1364,25 +1364,25 @@
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Nico Collins",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "De'Von Achane",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 10.5
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Zay Flowers",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -1391,7 +1391,7 @@
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Jake Ferguson",
       "Player_Position": "TE",
       "Player_Points": 0
@@ -1400,82 +1400,82 @@
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Greg Zuerlein",
       "Player_Position": "K",
-      "Player_Points": 0
+      "Player_Points": 1.0
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Brian Robinson Jr.",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 13.1
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Pat Freiermuth",
       "Player_Position": "TE",
-      "Player_Points": 0
+      "Player_Points": 7.1
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Jakobi Meyers",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 0.0
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Tee Higgins",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 18.2
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Tank Bigsby",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 23.8
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Tyler Allgeier",
       "Player_Position": "RB",
-      "Player_Points": 0
+      "Player_Points": 5.5
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Bengals D/ST",
       "Player_Position": "D/ST",
-      "Player_Points": 0
+      "Player_Points": 15.0
     },
     {
       "Game": 5,
       "Team": "Silence of the Lamb",
       "Is_Home": false,
-      "Team_Score": 0.0,
+      "Team_Score": 105.12,
       "Player_Name": "Tyler Lockett",
       "Player_Position": "WR",
-      "Player_Points": 0
+      "Player_Points": 8.5
     }
   ]
 }
