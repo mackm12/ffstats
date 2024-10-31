@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-10-30T02:17:44.599254",
+  "last_updated": "2024-10-31T02:18:43.847254",
   "data": [
     {
       "Game": 1,
@@ -555,15 +555,6 @@
       "Team": "BringYaAss",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Colby Parkinson",
-      "Player_Position": "TE",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "BringYaAss",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Austin Seibert",
       "Player_Position": "K",
       "Player_Points": 0
@@ -593,6 +584,15 @@
       "Team_Score": 0.0,
       "Player_Name": "Russell Wilson",
       "Player_Position": "QB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 2,
+      "Team": "BringYaAss",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Cade Otton",
+      "Player_Position": "TE",
       "Player_Points": 0
     },
     {
@@ -888,7 +888,7 @@
       "Team": "Silence of the Lamb",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Chargers D/ST",
+      "Player_Name": "Bengals D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 0
     },
