@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-06T02:13:34.633582",
+  "last_updated": "2024-11-07T02:14:42.615292",
   "data": [
     {
       "Game": 1,
@@ -375,15 +375,6 @@
       "Team": "Silence of the Lamb",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Greg Zuerlein",
-      "Player_Position": "K",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "Silence of the Lamb",
-      "Is_Home": true,
-      "Team_Score": 0.0,
       "Player_Name": "Brian Robinson Jr.",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -438,7 +429,16 @@
       "Team": "Silence of the Lamb",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Bengals D/ST",
+      "Player_Name": "Tyrone Tracy Jr.",
+      "Player_Position": "RB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 2,
+      "Team": "Silence of the Lamb",
+      "Is_Home": true,
+      "Team_Score": 0.0,
+      "Player_Name": "Chargers D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 0
     },
@@ -447,8 +447,8 @@
       "Team": "Silence of the Lamb",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Tyrone Tracy Jr.",
-      "Player_Position": "RB",
+      "Player_Name": "Jake Elliott",
+      "Player_Position": "K",
       "Player_Points": 0
     },
     {
@@ -537,15 +537,6 @@
       "Team": "3rd And Long",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Jordan Love",
-      "Player_Position": "QB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "3rd And Long",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Broncos D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 0
@@ -602,6 +593,15 @@
       "Team_Score": 0.0,
       "Player_Name": "Wil Lutz",
       "Player_Position": "K",
+      "Player_Points": 0
+    },
+    {
+      "Game": 2,
+      "Team": "3rd And Long",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Aaron Rodgers",
+      "Player_Position": "QB",
       "Player_Points": 0
     },
     {
