@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-09T02:10:25.884928",
+  "last_updated": "2024-11-10T02:18:08.349187",
   "data": [
     {
       "Game": 1,
@@ -870,8 +870,8 @@
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
       "Team_Score": 14.1,
-      "Player_Name": "Caleb Williams",
-      "Player_Position": "QB",
+      "Player_Name": "Rams D/ST",
+      "Player_Position": "D/ST",
       "Player_Points": 0
     },
     {
@@ -879,8 +879,8 @@
       "Team": "Make Subaru Striaght Again. ",
       "Is_Home": false,
       "Team_Score": 14.1,
-      "Player_Name": "Rams D/ST",
-      "Player_Position": "D/ST",
+      "Player_Name": "Taysom Hill",
+      "Player_Position": "TE",
       "Player_Points": 0
     },
     {
