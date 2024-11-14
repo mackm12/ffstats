@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-13T02:14:56.063792",
+  "last_updated": "2024-11-14T02:15:38.498318",
   "data": [
     {
       "Game": 1,
@@ -402,15 +402,6 @@
       "Team": "BringYaAss",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Austin Seibert",
-      "Player_Position": "K",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "BringYaAss",
-      "Is_Home": true,
-      "Team_Score": 0.0,
       "Player_Name": "Kareem Hunt",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -449,6 +440,15 @@
       "Team_Score": 0.0,
       "Player_Name": "DeAndre Hopkins",
       "Player_Position": "WR",
+      "Player_Points": 0
+    },
+    {
+      "Game": 2,
+      "Team": "BringYaAss",
+      "Is_Home": true,
+      "Team_Score": 0.0,
+      "Player_Name": "Tyler Bass",
+      "Player_Position": "K",
       "Player_Points": 0
     },
     {
@@ -1086,15 +1086,6 @@
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Diontae Johnson",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 4,
-      "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Austin Ekeler",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -1140,15 +1131,6 @@
       "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Chiefs D/ST",
-      "Player_Position": "D/ST",
-      "Player_Points": 0
-    },
-    {
-      "Game": 4,
-      "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "Romeo Doubs",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -1169,6 +1151,24 @@
       "Team_Score": 0.0,
       "Player_Name": "Kyler Murray",
       "Player_Position": "QB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 4,
+      "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Dolphins D/ST",
+      "Player_Position": "D/ST",
+      "Player_Points": 0
+    },
+    {
+      "Game": 4,
+      "Team": "\ud83d\udc9c\ud83d\udc9bGriddy Committee\ud83d\udc9c\ud83d\udc9b",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Calvin Ridley",
+      "Player_Position": "WR",
       "Player_Points": 0
     },
     {
@@ -1311,8 +1311,17 @@
       "Team": "Spam Town Mn",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Falcons D/ST",
-      "Player_Position": "D/ST",
+      "Player_Name": "Bo Nix",
+      "Player_Position": "QB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 5,
+      "Team": "Spam Town Mn",
+      "Is_Home": true,
+      "Team_Score": 0.0,
+      "Player_Name": "Jonnu Smith",
+      "Player_Position": "TE",
       "Player_Points": 0
     },
     {
