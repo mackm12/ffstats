@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-20T02:21:13.295474",
+  "last_updated": "2024-11-21T02:21:05.451701",
   "data": [
     {
       "Game": 1,
@@ -807,15 +807,6 @@
       "Team": "BringYaAss",
       "Is_Home": false,
       "Team_Score": 0.0,
-      "Player_Name": "Keon Coleman",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 3,
-      "Team": "BringYaAss",
-      "Is_Home": false,
-      "Team_Score": 0.0,
       "Player_Name": "J.K. Dobbins",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -890,6 +881,15 @@
       "Team_Score": 0.0,
       "Player_Name": "Cedric Tillman",
       "Player_Position": "WR",
+      "Player_Points": 0
+    },
+    {
+      "Game": 3,
+      "Team": "BringYaAss",
+      "Is_Home": false,
+      "Team_Score": 0.0,
+      "Player_Name": "Spencer Shrader",
+      "Player_Position": "K",
       "Player_Points": 0
     },
     {
