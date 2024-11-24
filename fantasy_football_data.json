@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-23T02:18:50.328295",
+  "last_updated": "2024-11-24T02:26:20.311897",
   "data": [
     {
       "Game": 1,
@@ -132,15 +132,6 @@
       "Team": "Purdy's Pitts",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Alexander Mattison",
-      "Player_Position": "RB",
-      "Player_Points": 0
-    },
-    {
-      "Game": 1,
-      "Team": "Purdy's Pitts",
-      "Is_Home": true,
-      "Team_Score": 0.0,
       "Player_Name": "Eagles D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 0
@@ -152,6 +143,15 @@
       "Team_Score": 0.0,
       "Player_Name": "Ravens D/ST",
       "Player_Position": "D/ST",
+      "Player_Points": 0
+    },
+    {
+      "Game": 1,
+      "Team": "Purdy's Pitts",
+      "Is_Home": true,
+      "Team_Score": 0.0,
+      "Player_Name": "Will Dissly",
+      "Player_Position": "TE",
       "Player_Points": 0
     },
     {
@@ -321,15 +321,6 @@
       "Team": "Ashley's Awesome Team",
       "Is_Home": true,
       "Team_Score": 0.0,
-      "Player_Name": "Chris Olave",
-      "Player_Position": "WR",
-      "Player_Points": 0
-    },
-    {
-      "Game": 2,
-      "Team": "Ashley's Awesome Team",
-      "Is_Home": true,
-      "Team_Score": 0.0,
       "Player_Name": "Alvin Kamara",
       "Player_Position": "RB",
       "Player_Points": 0
@@ -440,6 +431,15 @@
       "Team_Score": 0.0,
       "Player_Name": "Rico Dowdle",
       "Player_Position": "RB",
+      "Player_Points": 0
+    },
+    {
+      "Game": 2,
+      "Team": "Ashley's Awesome Team",
+      "Is_Home": true,
+      "Team_Score": 0.0,
+      "Player_Name": "Dolphins D/ST",
+      "Player_Position": "D/ST",
       "Player_Points": 0
     },
     {
