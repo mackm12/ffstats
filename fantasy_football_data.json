@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-28T02:24:34.940920",
+  "last_updated": "2024-11-29T02:24:21.922069",
   "data": [
     {
       "Game": 1,
@@ -1193,7 +1193,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Jonathan Taylor",
       "Player_Position": "RB",
       "Player_Points": 3.5
@@ -1202,7 +1202,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Sam LaPorta",
       "Player_Position": "TE",
       "Player_Points": 4.9
@@ -1211,7 +1211,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Drake London",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -1220,7 +1220,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Deebo Samuel Sr.",
       "Player_Position": "WR",
       "Player_Points": 3.1
@@ -1229,7 +1229,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "D'Andre Swift",
       "Player_Position": "RB",
       "Player_Points": 9.5
@@ -1238,7 +1238,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Rome Odunze",
       "Player_Position": "WR",
       "Player_Points": 8.9
@@ -1247,7 +1247,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Baker Mayfield",
       "Player_Position": "QB",
       "Player_Points": 18.66
@@ -1256,7 +1256,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Will Reichard",
       "Player_Position": "K",
       "Player_Points": 0.0
@@ -1265,7 +1265,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Texans D/ST",
       "Player_Position": "D/ST",
       "Player_Points": 18.0
@@ -1274,7 +1274,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Darnell Mooney",
       "Player_Position": "WR",
       "Player_Points": 0
@@ -1283,7 +1283,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Josh Downs",
       "Player_Position": "WR",
       "Player_Points": 5.7
@@ -1292,7 +1292,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Bo Nix",
       "Player_Position": "QB",
       "Player_Points": 19.42
@@ -1301,7 +1301,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Jonnu Smith",
       "Player_Position": "TE",
       "Player_Points": 23.7
@@ -1310,7 +1310,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Nick Folk",
       "Player_Position": "K",
       "Player_Points": 18.0
@@ -1319,7 +1319,7 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Justin Herbert",
       "Player_Position": "QB",
       "Player_Points": 17.62
@@ -1328,16 +1328,16 @@
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Bucky Irving",
       "Player_Position": "RB",
-      "Player_Points": 27.1
+      "Player_Points": 27.2
     },
     {
       "Game": 5,
       "Team": "Spam Town Mn",
       "Is_Home": true,
-      "Team_Score": 130.56,
+      "Team_Score": 130.66,
       "Player_Name": "Jauan Jennings",
       "Player_Position": "WR",
       "Player_Points": 9.0
